@@ -2,8 +2,9 @@
   "name": "ospa-react-utilities",
   "version": "1.0.8",
   "description": "React basic utilities",
-  "main": "index.tsx",
+  "main": "src/index.tsx",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,7 +27,8 @@
     "typescript": "^5.1.3"
   },
   "dependencies": {
-    "react": "^18.2.0"
+    "react": "^18.2.0",
+    "react-router-dom": "^6.13.0"
   },
   "ts-standard": {
     "project": "./tsconfig.json"
