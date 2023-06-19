@@ -1,3 +1,1 @@
-export const printMsg = function(){
-    console.log("Print Msg")
-}
+export * from './store/index';
