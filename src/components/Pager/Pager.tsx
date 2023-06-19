@@ -20,6 +20,6 @@ const Pager: React.FC<Props> = ({ renderContainer, pageSize, items, renderItem }
     },[page,items])
     
 
-    return renderContainer(visibleItems.map((x) => renderItem(x)),handleScroll)
+    return renderContainer(<>{visibleItems.map((x) => renderItem(x))}</>,handleScroll)
 }
 export { Pager }
