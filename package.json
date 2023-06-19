@@ -1,0 +1,22 @@
+{
+  "name": "ospa-react-utilities",
+  "version": "1.0.0",
+  "description": "React basic utilities",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oraziospada17/ospa-react-utilities.git"
+  },
+  "author": "ospa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oraziospada17/ospa-react-utilities/issues"
+  },
+  "homepage": "https://github.com/oraziospada17/ospa-react-utilities#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
