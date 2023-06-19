@@ -1,6 +1,6 @@
 {
   "name": "ospa-react-utilities",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React basic utilities",
   "main": "index.tsx",
   "scripts": {
